@@ -20,13 +20,10 @@ The package covers three main categories:
 > **✨ For a complete list of supported clocks and detailed usage examples, please refer to our [Tutorial Notebook](notebooks/tutorial.ipynb).**
 
 ## 🛠 Installation
-
-### 2. Python Version
 Install via pip with the subdirectory flag:
 
 ```r
-git clone https://github.com/Duzhaozhen/OmniAge.git
-cd OmniAge/OmniAgePy
+git clone https://github.com/Duzhaozhen/OmniAgePy.git
 pip install .
 ```
 > [!TIP]

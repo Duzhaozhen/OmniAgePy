@@ -1,4 +1,4 @@
-__version__ = "0.1.0"
+__version__ = "0.99.2"
 
 from .predict import cal_epimarker, list_available_clocks, get_clock_coefs,get_clock_coefs
 
