@@ -1,0 +1,12 @@
+dist/
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+dist/
+src/omniage/data/*.pmml
+example/
+*.ipynb_checkpoints/
+.DS_Store
+.vscode/
+.idea/
