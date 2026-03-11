@@ -17,7 +17,7 @@ The package covers three main categories:
 2.  **Transcriptomic (RNA) Clocks**: Including sc-ImmuAging, Brain_CT_clock, and Pasta.
 3.  **Surrogate Biomarkers**: Proxies for proteins (CRP, IL6) and lifestyle traits (Smoking, BMI).
 
-> **✨ For a complete list of supported clocks and detailed usage examples, please refer to our [Tutorial Notebook](notebooks/tutorial.ipynb).**
+> **✨ For a complete list of supported clocks and detailed usage examples, please refer to our [Tutorial Notebook](https://github.com/Duzhaozhen/OmniAgePy/blob/main/notebooks/tutorial.ipynb).**
 
 ## 🛠 Installation
 Install via pip with the subdirectory flag:
